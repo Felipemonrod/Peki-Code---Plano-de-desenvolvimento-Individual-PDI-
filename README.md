@@ -39,9 +39,9 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 
 
 - [x] Primeiros passos
-- [ ] Aprendendo a Aprender
-- [ ] Iniciando HTML e CSS
-- [ ] Avançando HTML e CSS
+- [x] Aprendendo a Aprender
+- [x] Iniciando HTML e CSS
+- [x] Avançando HTML e CSS
 - [ ] JavaScript
 - [ ] Git e GitHub
 - [ ] Projeto final
